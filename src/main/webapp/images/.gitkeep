@@ -1,0 +1,5 @@
+# 请将商品图片放入此目录
+# 图片文件名应与数据库中 product 表的 image 字段对应：
+# keyboard.jpg, earphone.jpg, cable.jpg, tshirt.jpg, jeans.jpg,
+# java_book.jpg, algorithm.jpg, lamp.jpg, cup.jpg, nuts.jpg
+# 同时需要一张 default.jpg 作为默认图片
